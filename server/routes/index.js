@@ -10,4 +10,5 @@ router.get('/', indexController.displayHomePage);
 router.get('/home', indexController.displayHomePage);
 
 
+
 module.exports = router;
